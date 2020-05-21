@@ -1,6 +1,6 @@
 export const config = {
   // Your Github Converted Token To Know How To Get Your Token Look at Readme.md
-  githubConvertedToken: "YjM0OTE3NzM0ZTc5OWFmMmU0MzczNThiNTkwNGM5YTkwMTQyZTZmNw==",
+  githubConvertedToken: "YTJmODU1OWY2YWMzYTQ2ZjMzZmUwNTM1NDg1YTRmMmY2NTQ2MDc4Ng==",
 
   // Your Github UserName
   githubUserName: "hyejin-ryu",
@@ -11,8 +11,8 @@ export const config = {
   // Set it to true if you have a Github app to add to this project
   // and fill the client ID & secret
   enableOAuth: true,
-  OAuthClientID: 'Iv1.c792e7c975f5d88a',
-  OAuthSecret: 'c3b9d1d68bfe240312fcef46d2cd7f8e143fd095',
+  OAuthClientID: 'Iv1.2e7a84b086a54c12',
+  OAuthSecret: 'f829f8adbe1dd0e44b7dbf70253bbad96e9b710d',
 
   // Your Personal Blog Title
   title : "hyejin-ryu ios Study" ,
